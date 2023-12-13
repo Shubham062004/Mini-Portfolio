@@ -1,1 +1,1 @@
-# short-intro-javascript
+Mini Portfolio Using Javascript
